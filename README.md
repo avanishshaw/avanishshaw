@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Avanish! 👋
 
-<!--
-**avanishshaw/avanishshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer focused on React, Express, and deployment.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Avanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=avanishshaw&show_icons=true&theme=vue-dark)
+
+## 📝 Recent Projects
+- [Movie Tracker App](https://github.com/avanishshaw/movie-tracker-app)
+- Open source contributor on GitHub
+
+## 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/avanishshaw)
+
