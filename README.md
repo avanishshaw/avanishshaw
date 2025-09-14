@@ -1,11 +1,38 @@
-# Hi, I'm Avanish! 👋
+# 👋 Hey there, I'm Avanish Kumar  
 
-I'm a full-stack developer focused on React, Express, and deployment.
+> _Turning caffeine into code and ideas into reality._
 
-## 🚀 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+---
+
+## 🧩 Who Am I?  
+- 🚀 A fresher exploring the endless universe of **Software Development**  
+- 🎯 Focused on **Java | DSA | React | Node.js | MongoDB**  
+- 🛠️ Currently building: _Fake Product Identification System_  
+- 📍 Based in India | 🌐 Learning to build for the world  
+
+---
+
+## 🛠️ My Tech Toolkit  
+
+```yaml
+Languages:
+  - Java
+  - JavaScript (ES6+)
+  - HTML5, CSS3
+
+Frameworks & Libraries:
+  - React.js
+  - Express.js
+  - Node.js
+
+Database:
+  - MongoDB
+
+Extras:
+  - Git & GitHub
+  - REST APIs
+  - Postman
+
 
 ## 📊 GitHub Stats
 ![Avanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=avanishshaw&show_icons=true&theme=vue-dark)
